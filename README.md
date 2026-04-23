@@ -7,42 +7,34 @@
 </p>
 
 <p align="center">
-  <a href="mailto:andresochavezr@gmail.com">📧 Email</a> •
-  <a href="https://github.com/ChAndres05">💻 GitHub</a> •
-  <a href="https://shre.ink/Ac1L">🌐 Portfolio</a>
+  <a href="mailto:andresochavezr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-andresochavezr%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/ChAndres05">
+    <img src="https://img.shields.io/badge/GitHub-ChAndres05-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://shre.ink/Ac1L">
+    <img src="https://img.shields.io/badge/Portfolio-Ver%20sitio-blue?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mí
 
-Soy estudiante de **Ingeniería de Sistemas**, apasionado por el **desarrollo de software** y la construcción de soluciones funcionales, modernas y escalables.
+Soy estudiante de Ingeniería de Sistemas, apasionado por el desarrollo de software y la construcción de soluciones funcionales, modernas y escalables.
 
-Me interesa participar en proyectos donde pueda aportar tanto en **frontend** como en **backend**, además de trabajar en **modelado de sistemas**, **bases de datos** y **diseño de experiencias de usuario**.
+Me interesa participar en proyectos donde pueda aportar tanto en frontend como en backend, además de trabajar en modelado de sistemas, bases de datos y diseño de experiencias de usuario.
 
-Actualmente sigo fortaleciendo mis habilidades en **desarrollo web**, **arquitectura de software**, **gestión de proyectos** e **inteligencia artificial**, con el objetivo de crecer como desarrollador y contribuir en proyectos de alto impacto.
+Actualmente sigo fortaleciendo mis habilidades en desarrollo web, arquitectura de software, gestión de proyectos e inteligencia artificial, con el objetivo de crecer como desarrollador y contribuir en proyectos de alto impacto.
 
 ---
 
 ## 🚀 Tecnologías y herramientas
 
-### 👨‍💻 Lenguajes
-`JavaScript` `TypeScript` `Python` `Java` `SQL` `C++`
-
-### 🎨 Frontend
-`React` `Next.js` `Tailwind CSS` `HTML5` `CSS3`
-
-### ⚙️ Backend
-`Node.js` `Express` `FastAPI` `REST APIs`
-
-### 🗄️ Bases de datos
-`MongoDB` `MariaDB` `SQL Server` `Supabase`
-
-### 🧠 Modelado y análisis
-`UML` `Diagramas de Clases` `Modelo ER` `Modelo Lógico` `Modelo Físico`
-
-### 🧰 Herramientas
-`Figma` `PowerDesigner` `StarUML` `HeidiSQL` `Git` `GitHub`
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nextjs,html,css,tailwind,nodejs,express,fastapi,mongodb,mysql,git,github,figma&perline=6" />
+</p>
 
 ---
 
@@ -51,29 +43,29 @@ Actualmente sigo fortaleciendo mis habilidades en **desarrollo web**, **arquitec
 ### 🔹 Sistema de Gestión Académica
 Proyecto académico orientado al diseño y desarrollo de un sistema de gestión académica con módulos para aulas, notas, actividades y finanzas.
 
-**Stack:** `Java` `NetBeans` `MariaDB` `HeidiSQL` `UML`
+**Stack:** Java · MariaDB · HeidiSQL · UML
 
 ### 🔹 Sistema de Gestión de Taller Automotriz
 Desarrollo de una base de datos para la gestión de un taller automotriz, incorporando roles de usuario, consultas SQL y triggers para automatizar procesos.
 
-**Stack:** `SQL Server` `PowerDesigner` `SQL`
+**Stack:** SQL Server · PowerDesigner · SQL
 
 ### 🔹 Servineo
 Plataforma enfocada en la gestión de servicios técnicos, con funcionalidades como video-inspección y calendario.
 
 **Rol:** Frontend + UX/UI + Historias de Usuario  
-**Stack:** `Figma` `Frontend Development`
+**Stack:** Figma · Frontend Development
 
 ### 🔹 SisColab
 Sistema de chat colaborativo en tiempo real con APIs RESTful para la gestión de perfiles y solicitudes.
 
 **Rol:** Frontend + apoyo funcional  
-**Stack:** `Python` `FastAPI` `MongoDB`
+**Stack:** Python · FastAPI · MongoDB
 
 ### 🔹 MedAssist AI
 Proyecto desarrollado en hackathon, orientado al registro clínico inteligente mediante transcripción en tiempo real y estructuración automática de formularios clínicos.
 
-**Stack:** `Next.js` `TypeScript` `IA`
+**Stack:** Next.js · TypeScript · IA
 
 ---
 
@@ -92,7 +84,3 @@ Proyecto desarrollado en hackathon, orientado al registro clínico inteligente m
 - 📧 **Email:** andresochavezr@gmail.com
 - 💻 **GitHub:** [ChAndres05](https://github.com/ChAndres05)
 - 🌐 **Portfolio:** [Ver enlace](https://shre.ink/Ac1L)
-
----
-
-> *“Sé el cambio que quieres ver en el mundo.”*
