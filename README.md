@@ -32,8 +32,40 @@ Actualmente sigo fortaleciendo mis habilidades en desarrollo web, arquitectura d
 
 ## 🚀 Tecnologías y herramientas
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,react,nextjs,html,css,tailwind,nodejs,express,fastapi,mongodb,mysql,git,github,figma&perline=6" />
+### 👨‍💻 Lenguajes
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+### 🗄️ Bases de datos
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,supabase" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+### 🧠 Modelado y diseño
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://img.shields.io/badge/UML-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PowerDesigner-1E1E1E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/StarUML-2C3E50?style=for-the-badge" />
+</p>
+
+### 🧰 Herramientas
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+  <img src="https://img.shields.io/badge/HeidiSQL-1B1F23?style=for-the-badge" />
 </p>
 
 ---
@@ -79,8 +111,17 @@ Proyecto desarrollado en hackathon, orientado al registro clínico inteligente m
 
 ---
 
+## 🔧 Experiencia complementaria
+
+Además de mi formación en desarrollo de software, también tengo experiencia técnica en **reparación de celulares**, realizando diagnóstico de fallas, mantenimiento y solución de problemas en dispositivos móviles.
 ## 📫 Contacto
+
+---
 
 - 📧 **Email:** andresochavezr@gmail.com
 - 💻 **GitHub:** [ChAndres05](https://github.com/ChAndres05)
 - 🌐 **Portfolio:** [Ver enlace](https://shre.ink/Ac1L)
+
+---
+
+> *“Sé el cambio que quieres ver en el mundo.”*
